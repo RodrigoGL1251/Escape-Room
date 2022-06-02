@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 304f897ae6fab364c8e95d54f8006a8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outline: {instanceID: 0}
+  - audioLook: {fileID: 8300000, guid: 4df87d330c5529a45ba8808aa6ad1a45, type: 3}
+  - audioSwitch: {fileID: 8300000, guid: d6e0dc65a85011c43a5a71b2c91ed1a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
